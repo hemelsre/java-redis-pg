@@ -1,1 +1,1 @@
-# javaredispg
+# java-redi-spg
